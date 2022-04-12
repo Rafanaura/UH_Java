@@ -10,6 +10,7 @@ package tugas_logika;
  * @author MOKLET-2
  */
 public class array_ada {
+    // naura
     static boolean cari(int bilangan[],int ukuran){
         for(int i = 0; i < (ukuran - 1); i++){
             for(int j = (i + 1); j < ukuran; j++ ){
